@@ -1,0 +1,4 @@
+trip_id,city_id,trip_date,fare_amount,distance_travelled_km,driver_rating,passenger_rating
+T0001,GJ02,2025-01-01,245.50,8.2,9,10
+T0002,MH01,2025-01-01,510.00,15.6,8,9
+T0003,KA01,2025-01-01,180.75,5.1,10,10
